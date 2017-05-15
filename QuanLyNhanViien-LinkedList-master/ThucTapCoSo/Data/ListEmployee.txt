@@ -1,0 +1,7 @@
+﻿Phan chí Công	Giám Đốc	12/23/1996	10
+Lê Quí Nhất	Giám Đốc	10/24/1996	9
+Nguyễn Thị D	Thư ký	10/12/1989	7
+Trần Văn E	Nhân Viên	01/11/1889	4
+Ấu Văn A	Nhân Viên	05/04/1888	4
+Phạm văn B	Thực Tập	07/09/2000	2
+Huỳnh Thị C	Thực Tập	10/29/2001	2
